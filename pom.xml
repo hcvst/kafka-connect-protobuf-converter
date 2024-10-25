@@ -50,9 +50,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/blueapron/kafka-connect-protobuf-converter.git</connection>
-        <developerConnection>scm:git:git@github.com:blueapron/kafka-connect-protobuf-converter.git</developerConnection>
-        <url>https://github.com/blueapron/kafka-connect-protobuf-converter/tree/master</url>
+        <connection>scm:git:git://github.com/hcvst/kafka-connect-protobuf-converter.git</connection>
+        <developerConnection>scm:git:git@github.com:hcvst/kafka-connect-protobuf-converter.git</developerConnection>
+        <url>https://github.com/hcvst/kafka-connect-protobuf-converter/tree/master</url>
         <tag>kafka-connect-protobuf-converter-3.1.1</tag>
     </scm>
 
