@@ -1,3 +1,7 @@
+This should come in useful when consuming protobuf messages off of kafka without a schema registry.
+
+---
+
 # Deprecated: Please Use https://www.confluent.io/hub/confluentinc/kafka-connect-protobuf-converter
 
 # kafka-connect-protobuf-converter
